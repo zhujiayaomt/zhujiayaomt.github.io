@@ -1,0 +1,8 @@
+.brand-logo>img{
+	max-height: 100%;
+
+}
+.brand-logo>p{
+	display: inline-block;
+	margin:0;
+}
